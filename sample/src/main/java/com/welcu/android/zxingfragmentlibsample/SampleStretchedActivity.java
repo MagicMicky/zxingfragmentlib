@@ -63,7 +63,6 @@ public class SampleStretchedActivity extends FragmentActivity {
 //        mScannerFragment.setFramingRect(framingRect);
       }
     });
-
 //    mToggleButton = (Button) findViewById(R.id.button_flash);
 //    mToggleButton.setOnClickListener(createToggleFlashListener());
 

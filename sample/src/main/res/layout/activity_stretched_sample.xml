@@ -8,7 +8,7 @@
 
     <fragment
         android:layout_width="match_parent"
-        android:layout_height="fill_parent"
+        android:layout_height="320dp"
         android:name="com.welcu.android.zxingfragmentlibsample.SampleFragment"
         android:id="@+id/scanner_fragment"
         android:layout_gravity="center"

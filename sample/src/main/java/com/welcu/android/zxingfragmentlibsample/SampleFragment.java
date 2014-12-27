@@ -13,7 +13,6 @@ public class SampleFragment extends BarCodeScannerFragment {
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         this.setmCallBack(new IResultCallback() {
             @Override
             public void result(Result lastResult) {
